@@ -1,5 +1,6 @@
 # graspnetAPI
 [![PyPI version](https://badge.fury.io/py/graspnetAPI.svg)](https://badge.fury.io/py/graspnetAPI)
+Replaced 'sklearn' by 'scikit-learn'
 
 ## Dataset
 
