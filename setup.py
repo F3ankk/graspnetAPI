@@ -30,7 +30,8 @@ setup(
         'cvxopt',
         'dill',
         'h5py',
-        'sklearn',
+        #'sklearn',
+        'scikit-learn',
         'grasp_nms'
     ]
 )
